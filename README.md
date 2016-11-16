@@ -14,4 +14,8 @@ pip install -r requirements.txt  # Install dependencies
 # Work on the assignment for a while ...
 deactivate                       # Exit the virtual environment
 ```
-
+## Download the Stanford Sentiment Treebank Dataset
+```bash
+cd cs224d/datasets
+./get_datasets.sh
+```
